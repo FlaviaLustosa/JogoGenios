@@ -1,0 +1,6 @@
+Flávia, eu AMEI o jogo.
+Está muito bom, rodando sem quaisquer problemas. Achei a documentação muito clara e o código muito limpo.
+
+A única coisa que reparei foi que, na medida em que a sequência fica muito longa, é impossível reler todos os elementos. Nesse caso, ou o tempo de exposição da sequência poderia ser maior OU (e eu gosto mais dessa segunda opção) os elementos poderiam ser mostrados individualmente, ao invés da lista inteira.
+
+Tem pouquíssimas questões de digitação nos prints - acho que poderia padronizar os caracteres especiais e as situações de uso de caixa baixa/caixa alta.
